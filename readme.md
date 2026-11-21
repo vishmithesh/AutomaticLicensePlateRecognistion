@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/d1afe507-0f4a-4b33-8403-4394c24ff1c9
+
+https://github.com/user-attachments/assets/10e20efa-e809-4f15-86e3-181752b8dfd7
 # Automatic License Plate Recognition (ANPR) Smart Barrier System
 
 An end-to-end **Computer Vision + IoT** access-control system that automatically detects Indian vehicle number plates using **Python (`OpenCV` + `EasyOCR`)**, logs vehicle timestamps in **SQLite**, visualizes traffic on a **Flask** dashboard, and triggers an **ESP32** traffic signal, 3-second alert buzzer, and servo barrier gate.
@@ -46,19 +50,16 @@ This project combines **real-time license plate recognition** with **automated E
 
 
 
-* **Run in Wokwi:** Open a [new Wokwi ESP32 project](https://wokwi.com/projects/new/esp32) and load `hardware/sketch.ino`, `hardware/diagram.json`, and `hardware/libraries.txt`.
+* **Run in Wokwi:** Open a [new Wokwi ESP32 project]<img width="1916" height="930" alt="Screenshot 2026-11-20 213526" src="https://github.com/user-attachments/assets/d6586cbf-cd20-4431-9f0a-531285e9fcc6" />
+ and load `hardware/sketch.ino`, `hardware/diagram.json`, and `hardware/libraries.txt`.
 
 ### Demo 1: Smart Barrier & Hardware Simulation
 
-
-
-* [Download full 720p MP4 with 3-second buzzer audio](https://www.google.com/search?q=docs/demos/anpr_smart_barrier_demo.mp4)
+* Uploading anpr_real_capture_run.mp4…
 
 ### Demo 2: Live OpenCV Plate Capture & Database Logging
 
-
-
-* [Download full MP4 capture run](https://www.google.com/search?q=docs/demos/anpr_real_capture_run.mp4)
+* Uploading anpr_smart_barrier_demo.mp4…
 
 ## Hardware Pinout (ESP32 DevKit)
 
