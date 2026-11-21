@@ -1,7 +1,3 @@
-
-https://github.com/user-attachments/assets/d1afe507-0f4a-4b33-8403-4394c24ff1c9
-
-https://github.com/user-attachments/assets/10e20efa-e809-4f15-86e3-181752b8dfd7
 # Automatic License Plate Recognition (ANPR) Smart Barrier System
 
 An end-to-end **Computer Vision + IoT** access-control system that automatically detects Indian vehicle number plates using **Python (`OpenCV` + `EasyOCR`)**, logs vehicle timestamps in **SQLite**, visualizes traffic on a **Flask** dashboard, and triggers an **ESP32** traffic signal, 3-second alert buzzer, and servo barrier gate.
@@ -55,11 +51,11 @@ This project combines **real-time license plate recognition** with **automated E
 
 ### Demo 1: Smart Barrier & Hardware Simulation
 
-* Uploading anpr_real_capture_run.mp4…
+[* Uploading anpr_real_capture_run.mp4…](https://github.com/user-attachments/assets/d1afe507-0f4a-4b33-8403-4394c24ff1c9)
 
 ### Demo 2: Live OpenCV Plate Capture & Database Logging
 
-* Uploading anpr_smart_barrier_demo.mp4…
+[* Uploading anpr_smart_barrier_demo.mp4…](https://github.com/user-attachments/assets/10e20efa-e809-4f15-86e3-181752b8dfd7)
 
 ## Hardware Pinout (ESP32 DevKit)
 
